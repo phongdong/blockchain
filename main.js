@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=zVqczFZr124
+
 const SHA256 = require('crypto-js/sha256');
 
 class Block {
